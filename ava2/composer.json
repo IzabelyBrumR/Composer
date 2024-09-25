@@ -1,0 +1,15 @@
+{
+    "name": "ctism/ava2",
+    "autoload": {
+        "psr-4": {
+            "Controller\\": "src/controller/",
+            "Model\\": "src/model/"
+        }
+    },
+    "authors": [
+        {
+            "name": "izabely"
+        }
+    ],
+    "require": {}
+}
